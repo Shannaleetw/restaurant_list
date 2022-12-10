@@ -13,16 +13,16 @@
 - express-handlebars 樣板引擎
 
 #### 操作
-Step1. 確認安裝 node.js 與 npm
-Step2. clone
-Step3. 終端機輸入  npm install
-Step4. 安裝完畢後 npm run start
-Step5. 確認訊息是否如下 Express is listening on localhost:3000
-Step6. 瀏覽器輸入 http://localhost:3000
-Step7. 如欲暫停伺服器，請切換至終端機並且ctrl+c
+- Step1. 確認安裝 node.js 與 npm
+- Step2. clone
+- Step3. 終端機輸入  npm install
+- Step4. 安裝完畢後 npm run start
+- Step5. 確認訊息是否如下 Express is listening on localhost:3000
+- Step6. 瀏覽器輸入 http://localhost:3000
+- Step7. 如欲暫停伺服器，請切換至終端機並且ctrl+c
 
 ##### 開發工具
-Node.js v14.16.0
-Express 4.16.4
-Express-Handlebars @3.0.0
-Bootstrap v5.1
+- Node.js v14.16.0
+- Express 4.16.4
+- Express-Handlebars @3.0.0
+- Bootstrap v5.1
